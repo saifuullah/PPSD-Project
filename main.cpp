@@ -337,6 +337,8 @@ else
 };
 int main()
 {
+    //This is main function
+    //It will call the function according to the user desire
     functions f_Obj;
     f_Obj.addNewMovie();
     f_Obj.display_list();
